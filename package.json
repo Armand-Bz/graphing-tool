@@ -1,0 +1,1 @@
+{\n  "name": "graphing-tool",\n  "version": "1.0.0",\n  "private": true,\n  "dependencies": {\n    "react": ">=16.0.0",\n    "react-dom": ">=16.0.0",\n    "typescript": ">=4.0.0",\n    "plotly.js": ">=2.0.0",\n    "mathjs": ">=10.0.0",\n    "regression": ">=2.0.0"\n  },\n  "scripts": {\n    "dev": "vite",\n    "build": "vite build",\n    "serve": "vite preview"\n  }\n}
